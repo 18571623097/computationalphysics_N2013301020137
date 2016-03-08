@@ -4,7 +4,7 @@ This repository is designed for  the Computational Physics( taught by Professor 
 
 ## The simple recipe:
  Every exercise will be updated in time and its link also will be given below.
-*Exercise 1*
+*[Exercise 1](github.com/18571623097/computationalphysics_N2013301020137/blob/master/README.md)*
 ### My taste.
 ![](https://upload.wikimedia.org/wikipedia/commons/4/4c/Braininvat.jpg)
 
