@@ -1,5 +1,5 @@
 # Welcome to my repository.
-Hey!  I am the master of this repository,   Frank Yu. 
+Hey!  I am the master of this repository,   Chengpei Yu. 
 This repository is designed for  the Computational Physics( taught by Professor Hao Cai).
 
 ## The simple recipe:
